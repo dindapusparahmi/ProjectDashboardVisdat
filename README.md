@@ -193,6 +193,9 @@ Elemen tambahan ilustrasi yang diberikan dan ilustrasi pada sampul diperoleh mel
  
 Setelah dashboard data terbentuk, langkah selanjutnya adalah publikasi dashboard. Peneliti mengunggah dashboard melalui halaman Tableau Public yang dapat diakses secara daring melalui tautan berikut.
 
+#### Tautan Laman Dashboard
+https://tinyurl.com/DashboardUAS
+
 ## EVALUASI
 Evaluasi hasil pengerjaan dashboard dilakukan dengan menggunakan User Experience Questionnaire Data Analysis Tools (UEQ). Metode evaluasi ini dipilih karena tujuan penelitian ini lebih memfokuskan pada pembuatan dashboard visualisasi informasi interaktif yang menarik dan mudah dipahami. Visualisasi yang atraktif, namun tidak membingungkan untuk pihak yang awam terhadap statistik adalah sasaran yang ditargetkan dapat tercapai. Oleh karena itu, Pengukuran evaluasi dashboard akan menggunakan pendekatan User Experience (UX) dalam usability testing-nya.
 Pengukuran usability testing menggunakan UEQ dilakukan dengan instrumen kuesioner yang dikirimkan pada partisipan yang telah terlebih dahulu menampilkan dan mencoba seluruh fungsi pada dashboard. Partisipan evaluasi akan mengisi 26 butir asesmen berupa pasangan atribut yang berlawanan makna. Setiap asesmen mewakili impresi atau penilaian partisipan terhadap dashboard yang sebelumnya telah dijelajahi. 26 asesmen pada UEQ ini akan mengevaluasi enam skala user experience, diantaranya:
