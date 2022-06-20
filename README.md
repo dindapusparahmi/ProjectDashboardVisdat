@@ -265,7 +265,7 @@ Gambar. 25 hasil skala user experience responden Evaluasi
 
 Untuk perhitungan skala user experience dari 30 responden secara keseluruhan dihitung dengan menggunakan ukuran rata-rata dan varians, seperti yang ditunjukkan pada gambar 26. Simbol anak panah mengarah keatas berwarna hijau menunjukkan jika rata-rata pada skala tersebut termasuk tinggi (excellent) sesuai dengan benchmark yang digunakan. Kemudian kolom bagian kanan menunjukkan jika varians antar responden kecil untuk seluruh skala user experience seluruhnya pada rentang 0.61-1.26. Hal ini menunjukkan jika penilaian yang diberikan responden tidak terlampau berbeda.
 
-![Gambar  26 mean   varians user experience 30 responden Evaluasi](https://user-images.githubusercontent.com/104297693/174620096-440af8eb-4526-4be3-b3cf-6e0e6c9d9fac.png)
+![26](https://user-images.githubusercontent.com/104297693/174626575-e4045cca-f40a-4d1c-97df-1a936a2b0e79.jpg)
  
 Gambar. 26 mean & varians user experience 30 responden Evaluasi
 
