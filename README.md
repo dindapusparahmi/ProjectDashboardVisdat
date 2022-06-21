@@ -1,12 +1,33 @@
-# Visualisasi Informasi Interaktif Level Rawan Banjir DKI Jakarta
+<h1 align="center"> 
+ Visualisasi Informasi Interaktif Level Rawan Banjir DKI Jakarta
+	</h1>
+	
+<p align="center">
+Dinda Pusparahmi Sholawatunnisa (221910740, 3SD1, 06)
+</p>	
+<p align="center">
+221910740@stis.ac.id
+</p>
 
 ## Latar Belakang
+<p align="justify">
   Melalui dokumen Rencana Pembangunan Jangka Menengah Nasional (RPJMN) Tahun 2020-2024, Presiden Joko Widodo memutuskan untuk memindahkan Ibu Kota Negara dari DKI Jakarta ke luar Pulau Jawa yaitu Kabupaten Penajem Paser Utara & Kabupaten Kutai Kartanegara di Provinsi Kalimantan Timur. Dua hal utama yang mendasari pemindahan Ibu Kota Negara (IKN) adalah terpusatnya kegiatan ekonomi di Jakarta dan Jawa mengakibatkan kesenjangan ekonomi diantara Pulau Jawa dan Luar Jawa, serta percepatan pemindahan IKN diharapkan mampu mempercepat penyintasan kesenjangan dan pertumbuhan ekonomi terutama di wilayah bagian timur Indonesia.
+	</p>
+	<p align="justify">
   Selain faktor kesenjangan ekonomi, kondisi lingkungan DKI Jakarta yang dapat diamati secara objektif turut melatarbelakangi proyek pemindahan IKN ke Kalimantan Timur. Menurut kajian yang dilakukan oleh Kementerian Perencanaan Pembangunan Nasional (PPN/Bappenas), bahaya banjir dan ancaman tenggelamnya Jakarta menjadi salah satu faktor pemicu pemindahan IKN. Sekitar 50% wilayah Jakarta memiliki tingkat keamanan banjir di bawah 10 tahunan, sedangkan seharusnya keamanan banjir suatu kota besar idealnya berada pada minimum 50 tahunan. 
+	</p>
+	<p align="justify">
   Banjir yang mengancam DKI Jakarta tidak hanya banjir yang berasal dari Hulu akibat cuaca hujan tetapi juga banjir akibat adanya penurunan permukaan tanah di kawasan Pantai Utara sehingga menyebabkan kenaikan permukaan air laut. Penurunan permukaan air tanah yang terjadi di Pantai Utara Jakarta rata-rata sebesar 7,5 cm per tahun pada rentang 1987-2007 dan hingga kini telah mencapai 60 cm. Penurunan ini diprediksi akan terus meningkat hingga mencapai 120 cm selama penggunaan air tanah masih banyak dilakukan. Sedangkan kenaikan permukaan air laut, juga terus meningkat dengan rata-rata 4-6 cm per tahun akibat perubahan iklim yang terus terjadi.
+	</p>
+	<p align="justify">
   Akan tetapi, kondisi level rawan banjir di DKI Jakarta yang merupakan data kewilayahan ini sulit dipahami bila disajikan dalam bentuk angka saja, representasi tabular pun tidak optimal menunjukkan informasi kewilayahan terkait wilayah mana saja yang terdampak banjir, bagaimana sebarannya antar wilayah, dan jumlah daerah terdampak pada tiap kecamatan, kota serta provinsi akan memerlukan waktu lebih lama untuk mendapatkan informasi-informasi ini jika data level rawan banjir DKI Jakarta disajikan dalam bentuk representasi visual yang tidak tepat.
+	</p>
+	<p align="justify">
   Agar data dapat dipahami dengan mudah diperlukan representasi visual data yang sesuai dan tepat dalam menyampaikan informasi yang dimaksud serta dibutuhkan. Oleh karena itu, untuk menyampaikan informasi level rawan banjir DKI Jakarta memerlukan representasi data yang dapat menyampaikan informasi kewilayahan dan persebarannya, serta untuk detail informasi pendukung memerlukan berbagai chart sesuai peruntukkannya seperti untuk menyampaikan proporsi, agregasi, dan data runtun waktu tentunya memerlukan representasi yang berbeda. Kemudian representasi visual perlu diintegrasikan kedalam sebuah dashboard data agar seluruh informasi yang bekaitan dapat diakses dengan mudah secara komprehensif.
+	</p>
+	<p align="justify">
   Akan tetapi banyaknya data yang ditampilkan dalam suatu dashbord kerap kali membuat beberapa pihak yang awam dengan data merasa kebingungan dan kewalahan (_overwhelmed_). Oleh karena itu, selain atraktif dashboard inteaktif juga relatif lebih mudah dipahami karena data yang ditampilkan dapat dikustomisasi sehingga menghasilkan informasi yang benar-benar dibutuhkan menggunakan fitur yang disediakan pada dashboard interaktif
+</p>
 
 ## Tujuan Penelitian
 1.  Untuk memetakann level kerawanan banjir di wilayah DKI Jakarta hingga tingkat kecamatan.
@@ -17,35 +38,42 @@
 6.	Untuk mengintegrasikan visualisasi level rawan banjir DKI Jakarta ke dalam dashboard yang menarik dan mudah dipahami.
 
 ## Penelitian Relevan
+<p align="justify">
   Penelitian Darman (2018) berjudul Pembangunan Dashboard Lokasi Rawan Tanah Longsor di Indonesia Menggunakan Tableau. Penelitian bertujuan untuk memanfaatkan data yang ada pada BPBD untuk menjadikan sebuah sistem informasi eksekutif yang dapat menampilkan informasi tentang kondisi bencana yang terjadi di Indonesia. Pemanfaatan business intelligence dengan memanfaatkan tools Tableau untuk melakukan visualisasi yang dapat mengelompokkan provinsi di Indonesia berdasarkan data yang telah didapat dengan output berupa informasi dashboard. Hasil yang didapat yaitu tujuh Kesimpulan dari dashboard yang terbentuk salah satunya ialah Jawa Barat merupakan daerah yang paling rawan akan bencana tanah longsor.
+</p>
+<p align="justify">
   Penelitian Angreini, Septi (2021) mengenai Visualisasi Data Lokasi Rawan Bencana Di Provinsi Sumatera Selatan Menggunakan Tableau, yang bertujuan membuat visualisasi berupa informasi dashboard menggunakan Tableau dari data daerah rawan bencana di Provinsi Sumatera Selatan pada setiap Kabupaten/Kota. Indikator yang akan dilakukan visualisasi di tahun 2018, atribut yang diambil yaitu bulan, tahun, kecamatan, jenis bencana, jenis kerusakan, jumlah kerusakan, satuan, korban KK, korban Jiwa, dan korban kk yang diperoleh dari data warehouse dengan model skema bintang Berdasarkan hasil visualisasi, diketahui bahwa daerah yang sering terjadi bencana adalah Kabupaten Musi Rawas dengan jenis bencana banjir, setiap tahunnya daerah yang sering terdampak adalah Kabupaten OKU, Kabupaten Muratara, dan Kabupaten OKU Timur, sedangkan untuk bencana yang sering terjadi banjir dan banjir bandang dengan jumlah korban yang terkena dampak selalu tinggi.
+	</p>
+	<p align="justify">
   Penelitian terkait lainnya yaitu penelitian Effendy (2021) berjudul Pemanfaatan Software Tableau Dalam Pembuatan Dashboard Bencana Karhutla Di BPBD Sumatera Selatan. Penelitian ini dilatarbelakangi beberapa fungsi serta peranan dari BPBD yang sangat penting dalam hal Penanggulangan Bencana Daerah, sehingga diperlukan sebuah executive information system (IES) yang dapat memberikan tampilan informasi tentang kondisi bencana yang terjadi di provinsi sumatera selatan khususnya yang akan dirancang dalam bentuk. dashboard yang secara umum memiliki tampilan yang sesuai serta cukup dimengerti oleh pihak executive dalam pembuatan dashboard diterapkan bussines intelligence yang dapat memberikan solusi tebaik dalam perolehan data dari berbagai sumber dan mengelolanya untuk keperluan pengambilan keputusan. Dalam pembuatan dashboard dibutuhkan sebuah bantuan aplikasi yaitu software tableau. Data yang didapatkan dalam bentuk file excel, dan kemudian disesuaikan lagi agar dapat di import ke database dan dilakukan analisa menggunakan aplikasi tableau desktop. Langkah-langkah yang dilakukan untuk melakukan pengolahan data pada Tableau adalah sebagai berikut :
+	</p>
+	
 1. Membuat Workbooks baru,
 2. Kemudian pilih New Data Source, kemudian pilih data     yang akan di Import,
 3. Tentukan field yang akan menjadi sumber nilai pada columns dan rows-nya 
 4. Buat tampilan dashboard berdasarkan tampilan informasi yang akan dibutuhkan.
   Pada dashboard akan menampilkan data mengenai kejadian bencana Kebakaran Hutan dan Lahan di Provinsi Sumatera Selatan dari awal tahun 2019 sampai akhir tahun 2020
 
-## Metode Penelitian
+	## Metode Penelitian
 A.	Data dan Sumber Data
-
+<p align="justify">
    Data yang digunakan dalam pembuatan dashboard Visualisasi Data Interaktif Level Rawan Banjir DKI Jakarta adalah data banjir lintas tahun 2014-2020 yang diperoleh dari situs Open Data Jakarta, data wilayah rawan banjir yang diperoleh dari situs Pantau Banjir Jakarta, serta data curah hujan Indonesia yang diperoleh dari situs BMKG .
-   
+   </p>
 B.	Pengolahan Data
 
    Preprocessing Data 
-    
+    <p align="justify">
    Proses ini bertujuan untuk mempersiapkan data yang telah dikumpulkan dari beberapa sumber, sehingga siap diolah dan divisualisasikan.
 Pada pembuatan dashboard preprocessing data yang dilakukan adalah penyesuaian letak header setiap table, memeriksa dan memperbaiki nama geografis agar terdeteksi dengan baik oleh Tableau ketika divisualisasikan. Serta memeriksa kelengkapan data yang terkumpul.
     Kemudian mengunakan operasi hitung seperti, filter, dan fitur lainnya untuk membuat variabel baru sehingga data lebih informatif. Pada data level rawan banjir variable baru yang dibentuk adalah  kategori level banjir dan tingkat curah hujan yang dibuat menggunakan fitur calculation field.
-
+</p>
    Pengelompokkan Data
-   
+   <p align="justify">
    Data yang digunakan dalam pembuatan dashboard ini diperoleh dari beberapa sumber data. Oleh karena itu, data-data yang telah terkumpul perlu dilakukan pengelompokkan menjadi beberapa tabel yang berbeda. Tujuan pengelompokkan data adalah mempermudah proses visualisasi pada software Tableau.Pada penelitian ini, data yang terkumpul dikelompokkan menjadi tiga tabel yaitu 
 1.	data bencana banjir beserta wilayah terdampak
 2.	data lintas tahun bencana banjir
 3.	data curah hujan di Indonesia.
-
+</p>
   Kategorisasi Data
   
   Agar data yang divisualisasikan kedalam dashboard lebih mudah dimaknai dan lebih informatif, peneliti membuat kolom sebagai variabel baru yang berisi kategorisasi data-data numerik yang telah terkumpul dan telah dikelompokkan, kategorisasi dilakukan pada data level rawan banjir DKI Jakarta serta data curah hujan di Indonesia.
@@ -69,18 +97,29 @@ D.	Pembuatan Dashboard Data
 3.	Graphical properties
 
     Properti elemen grafis yang digunakan akan memperhatikan prinsip ramah buta warna, properti lainnya seperti ukuran, orientasi, dan tekstur akan digunakan sefisien mungkin. Perancangan dasboard akan merujuk pada palet warna seperti yang ditunjukkan pada gambar 1.
-   
- ![Gambar  1 Palet warna yang akan dirujuk dalam perancangan dashboard](https://user-images.githubusercontent.com/104297693/174618817-c7a840d1-127d-47e9-8c33-f5e69d6c5fa0.png)
 
-Gambar. 1 Palet warna yang akan dirujuk dalam perancangan dashboard
+	
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/104297693/174618817-c7a840d1-127d-47e9-8c33-f5e69d6c5fa0.png">
+ </p>
+	
+<p align="center">
+Gambar. 1 Palet warna yang akan dirujuk dalam perancangan dashboard</p>
 
 E.	Flowchart Penelitian
 
    Alur penelitian pembuatan Visualisasi Informasi Interaktif Level Rawan Banjir DKI Jakarta dilakukan melalui tahapan proses seperti yang ditunjukkan Flowchart pada gambar 2.
+   <p align="center">
+  <img  src="https://user-images.githubusercontent.com/104297693/174618996-52fae9a0-0c4e-4524-9a57-13906bfc389e.jpg">
+</p>
+   
+   <p align="center">
     
- ![Gambar  2 Flowchart penelitian](https://user-images.githubusercontent.com/104297693/174618996-52fae9a0-0c4e-4524-9a57-13906bfc389e.jpg)
-
+ 
+</p>
+<p align="center">
 Gambar. 2 Flowchart penelitian
+</p>
 
 ## HASIL DAN PEMBAHASAN
 Data yang dikumpulkan dari berbagai sumber publik. Setelah melalui pengolahan data dihasilkan tiga buah tabel. Hal yang perlu diperhatikan adalah format tabel yang digunakan untuk visualisasi. Agar dapat terbaca dengan baik, perlu dipastikan diantara tabel tidak ada merged cells dan pastikan seluruh variabel dibuat sebagai header kolom (memanjang, memenuri baris pertama tabel), sedangkan isi setiap variabel seluruhnya menjadi kolom tanpa berjarak oleh sel yang kosong.
@@ -310,16 +349,23 @@ Gambar. 29 penilaian benchmark skala user experience responden Evaluasi
 Secara rata-rata untuk setiap skala yang ditunjukkan oleh garis solid berwarna hitam, jika seluruh titik rata-rata skala berada pada rentang berwarna hijau tua yang menunjukkan penilaian excellent.
 
 ##	KESIMPULAN
+<p align="justify">
 Berdasarkan hasil, pembahasan, dan evaluasi penelitian pembuatan dashboard Jakarta Rawan Banjir Sebabkan IKN Pindah (Visualisasi Informasi Interaktif Level Rawan Banjir DKI Jakarta) dengan acuan waktu tahun 2014-2021 untuk data runtun waktu, terdapat beberapa kesimpulan dari tahapan-tahapan penelitian, sebagai berikut:
 Analisis visualisasi wilayah rawan banjir DKI Jakarta dengan latar belakang pemindahan IKN memerlukan analisis komprehensif dari berbagai aspek seperti sebaran wilayah rawan banjir, proporsi kecamatan rawan banjir, intensitas terjadinya banjir, dugaan penyebab banjir dan analisis dukungan lainnya. Pada penelitian ini telah dilakukan namun hanya sebatas analisis deskriptif. Keterbatasan analisis yang berbasis visual sehingga tidak dapat dilakukan analisis mendalam.
 Berdasarkan analisis dan visualisasi menggunakan representasi visual terpilih, dapat diketahui fakta jika >50% wilayah DKI Jakarta masih berada pada kategori aman hingga rendah rawan banjir. Namun, intensitas banjir yang terlampau tinggi yaitu tahunan menjadi faktor pemindahan IKN berdasarkan kondisi objektif Jakarta.
 Dari hasil evaluasi dashboard yang dinilai oleh 30 responden menggunakan User Experience Questionnaire Data Analysis Tools (UEQ) diperoleh hasil penilaian excellent sehingga dashboard yang dibuat dapat dinilai memenuhi tujuan penelitian yakni menarik dan mudah dipahami.
-
+</p>
+	
 ## Referensi
-Angreini, S., & Supratman, E. (2021). Visualisasi Data Lokasi Rawan Bencana Di Provinsi Sumatera Selatan Menggunakan Tableau. Jurnal Nasional Ilmu Komputer, 2(2), 135-147.
-Darman, R. (2018). Pembangunan Dashboard Lokasi Rawan Tanah Longsor di Indonesia Menggunakan Tableau. Jurnal Teknik Informatika dan Sistem Informasi, 4(2), 256–269. Few, S. (2006). Information dashboard design: The effective visual communication of data (Vol. 2). Sebastopol, CA: O'reilly.
-Kucher, K., & Kerren, A. (2015, April). Text visualization techniques: Taxonomy, visual survey, and community insights. In 2015 IEEE Pacific visualization symposium (pacificVis) (pp. 117-121). IEEE.
-Mazza, R. (2009). Introduction to information visualization .Springer Science & Business Media.
-Schrepp, M. “User Experience Questionnaire Handbook”. Germany. 2019
-Widayati, Q., & Effendi, I. (2021). Pemanfaatan Software Tableau Dalam Pembuatan Dashboard Bencana Karhutla Di BPBD Sumatera Selatan. Jurnal Pengabdian kepada Masyarakat Bina Darma, 1(2), 132-141.
+[1] Angreini, S., & Supratman, E. (2021). Visualisasi Data Lokasi Rawan Bencana Di Provinsi Sumatera Selatan Menggunakan Tableau. Jurnal Nasional Ilmu Komputer, 2(2), 135-147.
+
+[2] Darman, R. (2018). Pembangunan Dashboard Lokasi Rawan Tanah Longsor di Indonesia Menggunakan Tableau. Jurnal Teknik Informatika dan Sistem Informasi, 4(2), 256–269. Few, S. (2006). Information dashboard design: The effective visual communication of data (Vol. 2). Sebastopol, CA: O'reilly.
+
+[3] Kucher, K., & Kerren, A. (2015, April). Text visualization techniques: Taxonomy, visual survey, and community insights. In 2015 IEEE Pacific visualization symposium (pacificVis) (pp. 117-121). IEEE.
+
+[4] Mazza, R. (2009). Introduction to information visualization .Springer Science & Business Media.
+
+[5] Schrepp, M. “User Experience Questionnaire Handbook”. Germany. 2019
+
+[6] Widayati, Q., & Effendi, I. (2021). Pemanfaatan Software Tableau Dalam Pembuatan Dashboard Bencana Karhutla Di BPBD Sumatera Selatan. Jurnal Pengabdian kepada Masyarakat Bina Darma, 1(2), 132-141.
 
